@@ -1,6 +1,6 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "📞⚡CALL YOUR REPRESENTATIVES⚡📞"
+title: "🏡 Stay Home Take Action ✨"
 ---
 
 ### FOR A PEOPLE’S COVID-19 RESPONSE
