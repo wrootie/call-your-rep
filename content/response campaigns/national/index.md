@@ -1,7 +1,7 @@
 ---
 title: "National Response Campaigns 🇺🇸"
 date: 2019-09-10T20:26:08-05:00
-tags: [response campaigns, national]
+tags: ["response campaigns", "national"]
 notoc: true
 ---
 
@@ -51,6 +51,10 @@ notoc: true
 
 ### For Resisting Pandemic Profiteering by Sen. Burr & Sen. Loeffler (Brought to you by the AOC for Congress):
 **[✍️ Sign](https://act.ocasiocortez.com/survey/ads-inthesetimes-2020q1-stop-pandemic-profiteering/?source=ads-ea-inthesetimes-20200324-em2&link_id=0&can_id=b45e6c8989f7f181359f2aede8a8eab8&email_referrer=email_760828&email_subject=sign-your-name-burr-loeffler-must-go) this petition (FYI it involves signing up for emails)**
+
+
+### For Universal Basic Income: 
+**[✍️ Sign](https://act.colorofchange.org/sign/UBI?source=coc_main_website) this petition from Color of Change**
 
 {{<expandable label="📚Eduational Resources:" level="2">}}
 <a href="https://actionnetwork.org/forms/covid-19-petition">The Justice Collaborative</a> demand letter & website has more info on issues facing incarcerated people right now
