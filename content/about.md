@@ -3,12 +3,7 @@ date: "2014-04-09"
 title: "About"
 ---
 
-This site is put together and maintained with love by Ruth and resources are compiled by Julia
+This site is put together and maintained with love by Ruth and resources are compiled by Julia + wider community
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Please reach out and email ruthwu747@gmail.com if you have resources you'd like to add to this website
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).

@@ -27,19 +27,24 @@ katex = true
 [menu]
 
   [[menu.nav]]
-  name = "Response Campaigns"
+  name = "💪Response Campaigns"
   url = "/response-campaigns"
   weight = 1.0
 
   [[menu.nav]]
-  name = "Resources"
-  url = "/resources"
+  name = "🌈Resource Guides"
+  url = "/resource-guides"
   weight = 2.0
 
   [[menu.nav]]
-  name = "About"
-  url = "/about/"
+  name = "📚Readings"
+  url = "/readings"
   weight = 3.0
+
+  [[menu.nav]]
+  name = "👀About"
+  url = "/about/"
+  weight = 4.0
 
 [markup]
 defaultMarkdownHandler = "goldmark"
