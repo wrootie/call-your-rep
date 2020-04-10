@@ -18,18 +18,18 @@ notoc: true
 1. Working toward a regenerative economy
 1. Protecting democracy
 
-### For supporting Sunrise & a coalition of environmental justice groups
+### For supporting Sunrise & a coalition of environmental justice groups:
 **[✍️ Sign this petition to take action](https://actionnetwork.org/forms/covid-19-petition)**
 
 
-### For Supporting Healthcare Workers
+### For Supporting Healthcare Workers:
 **[📞 Contact](https://www.plannedparenthoodaction.org/call/covid) your U.S. Reps about a bailout that...**
 
 * Strengthens critical health care infrastructure and services here and around the world
 * Protects health care workers and expands paid leave
 * Ensures that voters can participate safely in their elections during this pandemic
 
-### For Humanity Not Cages: Demanding a Just and Humane Response to Outbreak in Prisons
+### For Humanity Not Cages: Demanding a Just and Humane Response to Outbreak in Prisons:
 
 **[✍️Sign on to](https://humaneoutbreakresponse.org/) a big platform that includes demands for the following institutions:**
 * **Federal Bureau of Prisons**
@@ -39,8 +39,18 @@ notoc: true
 * **Detention Centers**
 * **Prison Industry Corporations**
 
-
 **[✍️ Sign on to](https://action.aclu.org/petition/stop-spread-covid-19-free-elderly-and-sick-prisons-and-jails?ms=wwwactionpage&initms=wwwactionpage&ms_aff=NAT&initms_aff=NAT&ms_chan=web&initms_chan=web) a similar petition from the ACLU**
+
+### For Making Prison & Jail Communication Free During COVID-19 and Thereafter (Brought to you by Color of Change):
+**[✍️ Write](https://act.colorofchange.org/sign/connect-incarcerated-families-now-covid-19-coronavirus?source=coc_main_website) your federal reps to let them know that prison telecom corporations shouldn’t be charging families with incarcerated loved ones up to $25 for a 15-min phone call.**
+
+
+### For Supporting Asylum Seekers (Brought to you by the ACLU): 
+**[✍️ Write](https://action.aclu.org/send-message/congress-support-asylum-seekers?ms=wwwactionpage&initms=wwwactionpage&ms_aff=NAT&initms_aff=NAT&ms_chan=web&initms_chan=web) your representatives to support the Asylum Seeker Protection Act (HR 2662)**
+
+
+### For Resisting Pandemic Profiteering by Sen. Burr & Sen. Loeffler (Brought to you by the AOC for Congress):
+**[✍️ Sign](https://act.ocasiocortez.com/survey/ads-inthesetimes-2020q1-stop-pandemic-profiteering/?source=ads-ea-inthesetimes-20200324-em2&link_id=0&can_id=b45e6c8989f7f181359f2aede8a8eab8&email_referrer=email_760828&email_subject=sign-your-name-burr-loeffler-must-go) this petition (FYI it involves signing up for emails)**
 
 {{<expandable label="📚Eduational Resources:" level="2">}}
 <a href="https://actionnetwork.org/forms/covid-19-petition">The Justice Collaborative</a> demand letter & website has more info on issues facing incarcerated people right now

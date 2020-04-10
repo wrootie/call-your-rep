@@ -1,6 +1,6 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "🏡 Stay Home Take Action ✨"
+title: "🏡 Stay Home, Take Action ✨"
 ---
 
 ### FOR A PEOPLE’S COVID-19 RESPONSE

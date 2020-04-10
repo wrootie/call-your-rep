@@ -2,7 +2,7 @@
 baseURL = "https://call-your-rep.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "📞⚡CALL YOUR REPRESENTATIVES⚡📞"
+title = "🏡 Stay Home, Take Action ✨"
 theme = "cupper-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 disqusShortname = "yourdiscussshortname"
