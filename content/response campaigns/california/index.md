@@ -2,7 +2,7 @@
 title: "California Response Campaigns 🐻"
 date: 2019-09-10T20:26:08-05:00
 tags: ["response campaigns", "califoria", "oakland", "bay area"]
-notoc: false
+toc: false
 ---
 
 ### Table of contents
