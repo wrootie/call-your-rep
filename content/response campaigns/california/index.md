@@ -20,7 +20,7 @@ notoc: false
 
 ### Bay Area
 
-**[✍️  Sign this petition](https://www.housingnowca.org/stopcoronacrisis?recruiter_id=440418) and 📞 Call London Breed at (415)-554-6141 in order to...**
+**[✍️  Sign this petition](https://www.change.org/p/mayor-london-breed-sf-protect-homeless-neighbors-during-covid-19-outbreak) and 📞 Call London Breed at (415)-554-6141 in order to...**
 
 1. House every single homeless person in a vacant unit NOW
 2. Stop the sweeps 
