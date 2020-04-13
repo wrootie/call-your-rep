@@ -37,14 +37,19 @@ katex = true
   weight = 2.0
 
   [[menu.nav]]
+  name = "👯‍♂️ Mutual Aid"
+  url = "/mutual-aid"
+  weight = 3.0
+
+  [[menu.nav]]
   name = "📚Readings"
   url = "/readings"
-  weight = 3.0
+  weight = 4.0
 
   [[menu.nav]]
   name = "👀About"
   url = "/about/"
-  weight = 4.0
+  weight = 5.0
 
 [markup]
 defaultMarkdownHandler = "goldmark"

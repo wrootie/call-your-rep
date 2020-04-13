@@ -5,6 +5,7 @@ tags: ["readings"]
 toc: true
 ---
 
+### Take a pause and visit these resources for books to center yourself in this time
 ## Articles
 
 - [Coronavirus is a historic trigger event — and it needs a movement to respond](https://wagingnonviolence.org/2020/03/coronavirus-historic-trigger-event-needs-movement-response/) **by Paul Engler**
