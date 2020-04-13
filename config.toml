@@ -18,7 +18,7 @@ quality = 99.0
 
 [params]
 description = "Fight for whatever is the opposite of disaster capitalism from inside your home."
-homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+homeMetaContent = "Fight for whatever is the opposite of disaster capitalism from inside your home."
 footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
