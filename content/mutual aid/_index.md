@@ -10,6 +10,7 @@ title: "👯‍♂️ Mutual Aid"
 | Link | Description |
 |---------|--------|
 | [**It's going down**](itsgoingdown.org) | **SPREAD RESOURCES:** An aggregate mutual aid link page organized by region |
+| [**Seeding Sovereignty's Indigenous Impact**](https://secure.acceptiva.com/?cst=iRVYCY&fbclid=IwAR09s59T9NYatKeH55nf5VIVagdrkKQLC0CxaYRsExRcCfRl943jtHLBO1w) | **SPREAD RESOURCES** Transfer funds to directly affected communities, provide sewn protective masks to families, send Indigenous authored children's books for students, distribute healthy meal kits for elders and provide crucial remote mental health support. |
 | [**Save our Chinatowns**](https://www.gofundme.com/f/save-our-chinatowns) | **SPREAD RESOURCES:**  Currently collecting funds to donate to the businesses in SF and Oakland Chinatowns |
 | [**Santa Clara Mutual Aid Sheet**](https://docs.google.com/spreadsheets/d/1qHTKAU55y10zXsxUG2CZ6x8rOWv4c6JQun9Z1i_iyGc/edit#gid=1149136249) | **SPREAD RESOURCES:** A mutual aid link page for Santa Clara |
 | [**LA Mutual Aid fund**](https://www.gofundme.com/f/covid19-mutual-aid-network) | **SPREAD RESOURCES:** A mutual aid link fund for LA |
